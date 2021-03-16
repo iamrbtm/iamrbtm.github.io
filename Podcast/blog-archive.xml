@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Podcast</title>
+    <link>https://iamrbtm.github.io/Jeremy_Guill/Podcast</link>
+    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</description>
+    <item>
+      <title>My stupid Life</title>
+      <link>https://iamrbtm.github.io/Jeremy_Guill/Podcast/Entries/2021/3/16_My_stupid_Life.html</link>
+      <guid isPermaLink="false">a112b025-1cca-4adb-bdd8-0288c244eaeb</guid>
+      <pubDate>Tue, 16 Mar 2021 01:27:33 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://iamrbtm.github.io/Jeremy_Guill/Podcast/Entries/2021/3/16_My_stupid_Life.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>https://iamrbtm.github.io/Jeremy_Guill/Podcast</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

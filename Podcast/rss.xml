@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Podcast</title>
+    <link>https://iamrbtm.github.io/Jeremy_Guill/Podcast/Podcast.html</link>
+    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</description>
+    <generator>iWeb 3.0.2</generator>
+    <image>
+      <url>https://iamrbtm.github.io/Jeremy_Guill/Podcast/Podcast_files/skd267685sdc_b.jpg</url>
+      <title>My Podcast</title>
+      <link>https://iamrbtm.github.io/Jeremy_Guill/Podcast/Podcast.html</link>
+    </image>
+    <ttl>60</ttl>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</itunes:subtitle>
+    <itunes:summary>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</itunes:summary>
+    <itunes:image href="https://iamrbtm.github.io/Jeremy_Guill/Podcast/Podcast_files/skd267685sdc_b.jpg"/>
+    <language>en</language>
+    <item>
+      <title>My stupid Life</title>
+      <link>https://iamrbtm.github.io/Jeremy_Guill/Podcast/Entries/2021/3/16_My_stupid_Life.html</link>
+      <guid isPermaLink="false">a112b025-1cca-4adb-bdd8-0288c244eaeb</guid>
+      <pubDate>Tue, 16 Mar 2021 01:27:33 -0700</pubDate>
+      <description>&lt;a href=&quot;https://iamrbtm.github.io/Jeremy_Guill/Media/IMG_0322.MOV&quot;&gt;&lt;img src=&quot;https://iamrbtm.github.io/Jeremy_Guill/Podcast/Media/IMG_0322.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:157px; height:279px;&quot;/&gt;&lt;/a&gt;fill in later</description>
+      <enclosure url="https://iamrbtm.github.io/Jeremy_Guill/Media/IMG_0322.MOV" length="14326977" type="video/quicktime"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:00:05</itunes:duration>
+      <itunes:subtitle>fill in later</itunes:subtitle>
+      <itunes:summary>fill in later</itunes:summary>
+    </item>
+  </channel>
+</rss>

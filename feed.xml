@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:CBF91EB5-9A4D-4CA8-9C1C-868F83A9A6C5</id>
+ <title>Page list Atom feed</title>
+ <updated>2021-03-16T01:31:01-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:A18D7F24-66FE-4DD2-A591-B5E2B1261837</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">A18D7F24-66FE-4DD2-A591-B5E2B1261837</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2021-03-16T01:31:01.001-07:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:AABF44D1-7B03-4802-9694-E7052CF0B160</id>
+  <title>Podcast</title>
+  <title xmlns="urn:iweb:">Podcast</title>
+  <in-navbar xmlns="urn:iweb:">AABF44D1-7B03-4802-9694-E7052CF0B160</in-navbar>
+  <link rel="alternate" href="Podcast/Podcast.html"/>
+  <updated>2005-09-20T18:08:38-07:00</updated>
+  <content>Podcast</content>
+ </entry>
+</feed>

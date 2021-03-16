@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="EDD1BF1F-E7A6-4675-8A20-0386221B1A85">
+  <lastEdited clientType="local-build-20210316" date="2021-03-16 08:31:02 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;So Now What...&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>fill in later</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, March 16, 2021&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>My stupid Life</richText>
+  </textBox>
+</content>
